@@ -1,0 +1,8 @@
+task.txt
+.claude/
+bin/
+obj/
+*.user
+.vs/
+.DS_Store
+Thumbs.db
